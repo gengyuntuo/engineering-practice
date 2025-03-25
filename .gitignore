@@ -5,6 +5,7 @@ obj/
 
 work/
 ConsoleApp/
+WateringManagement/
 
 *.zip
 *.dll
