@@ -19,3 +19,9 @@
 基于百度API实现。
 
 [语音识别与合成代码](./VoiceApplication/)
+
+### 作业三: NLP
+
+基于百度API实现。
+
+[NLP](./NaturalLanguageProcessing/)
