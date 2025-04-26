@@ -25,3 +25,10 @@
 基于百度API实现。
 
 [NLP](./NaturalLanguageProcessing/)
+
+### 作业四: 文本识别
+
+基于百度API实现。
+
+[文本识别](./OpticalCharacterRecognition/)
+
