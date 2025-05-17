@@ -32,3 +32,8 @@
 
 [文本识别](./OpticalCharacterRecognition/)
 
+###  作业五: 人脸识别
+
+基于百度API实现。
+
+[人脸识别](./FaceRecognition/)
